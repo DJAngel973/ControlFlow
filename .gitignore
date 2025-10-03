@@ -12,7 +12,16 @@ Thumbs.db
 
 # Dependencias de Node.js
 node_modules/
+package-look.json
 
 # Archivos temporales
 *.tmp
 *.swp
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+.env.local
